@@ -1,5 +1,5 @@
 
-export const host = "http://localhost:4000";
+export const host = "https://pizza-back-theta.vercel.app";
 
 export const getPizzaData = `${host}/api/pizzas/getAllPizzas`;
 export const addNewPizza = `${host}/api/pizzas/addpizza`;
